@@ -1,0 +1,105 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* KVCandKVOAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 544}}";
+			sepNavSelRange = "{439, 0}";
+			sepNavVisRange = "{300, 290}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* KVCandKVO */ = {
+		activeExec = 0;
+		executables = (
+			99AD45A8160DCF2C003608FE /* KVCandKVO */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* KVCandKVOViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 584}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRange = "{0, 451}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* KVCandKVOViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1484, 2193}}";
+			sepNavSelRange = "{3008, 0}";
+			sepNavVisRange = "{2650, 963}";
+			sepNavWindowFrame = "{{366, 79}, {853, 656}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 99AD45A8160DCF2C003608FE /* KVCandKVO */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* KVCandKVO */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* KVCandKVO */,
+		);
+		codeSenseManager = 99AD45AF160DCF4B003608FE /* Code sense */;
+		executables = (
+			99AD45A8160DCF2C003608FE /* KVCandKVO */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 370112429;
+			PBXWorkspaceStateSaveDate = 370112429;
+		};
+		sourceControlManager = 99AD45AE160DCF4B003608FE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	99AD45A8160DCF2C003608FE /* KVCandKVO */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = KVCandKVO;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	99AD45AE160DCF4B003608FE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	99AD45AF160DCF4B003608FE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	99AD45B0160DCF78003608FE /* InfoModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 584}}";
+			sepNavSelRange = "{248, 0}";
+			sepNavVisRange = "{0, 452}";
+			sepNavWindowFrame = "{{353, 90}, {853, 656}}";
+		};
+	};
+	99AD45B1160DCF78003608FE /* InfoModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 584}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 479}";
+			sepNavWindowFrame = "{{353, 90}, {853, 656}}";
+		};
+	};
+}
